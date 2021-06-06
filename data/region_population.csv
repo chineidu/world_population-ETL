@@ -1,0 +1,1421 @@
+Index,Variant,Region,Notes,Country code,Type,Parent code,Years,Population(Thousands)
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1950-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1950-01-01,814818.913
+4,Estimates,Less developed regions,c,902,Development Group,1803,1950-01-01,1721612.105
+5,Estimates,Least developed countries,d,941,Development Group,902,1950-01-01,195427.785
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1950-01-01,1526184.32
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1950-01-01,103803.462
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1950-01-01,23771.12
+11,Estimates,High-income countries,h,1503,Income Group,1802,1950-01-01,694989.106
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1950-01-01,1703596.496
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1950-01-01,938930.867
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1950-01-01,764665.629
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1950-01-01,137041.865
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1950-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1950-01-01,227794.137
+19,Estimates,Asia,k,935,Region,1840,1950-01-01,1404908.992
+20,Estimates,Europe,l,908,Region,1840,1950-01-01,549328.859
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1950-01-01,168820.524
+22,Estimates,Northern America,n,905,Region,1840,1950-01-01,172602.611
+23,Estimates,Oceania,o,909,Region,1840,1950-01-01,12975.895
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1950-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1951-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1951-01-01,824003.512
+4,Estimates,Less developed regions,c,902,Development Group,1803,1951-01-01,1760030.715
+5,Estimates,Least developed countries,d,941,Development Group,902,1951-01-01,199180.385
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1951-01-01,1560850.33
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1951-01-01,105870.275
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1951-01-01,24209.068
+11,Estimates,High-income countries,h,1503,Income Group,1802,1951-01-01,703003.781
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1951-01-01,1741085.978
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1951-01-01,962815.769
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1951-01-01,778270.209
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1951-01-01,139118.85
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1951-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1951-01-01,232327.857
+19,Estimates,Asia,k,935,Region,1840,1951-01-01,1435819.067
+20,Estimates,Europe,l,908,Region,1840,1951-01-01,554324.506
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1951-01-01,173280.491
+22,Estimates,Northern America,n,905,Region,1840,1951-01-01,175016.588
+23,Estimates,Oceania,o,909,Region,1840,1951-01-01,13265.718
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1951-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1952-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1952-01-01,833720.173
+4,Estimates,Less developed regions,c,902,Development Group,1803,1952-01-01,1797141.517
+5,Estimates,Least developed countries,d,941,Development Group,902,1952-01-01,203015.198
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1952-01-01,1594126.319
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1952-01-01,108079.453
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1952-01-01,24684.57
+11,Estimates,High-income countries,h,1503,Income Group,1802,1952-01-01,711533.764
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1952-01-01,1777129.448
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1952-01-01,984350.359
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1952-01-01,792779.089
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1952-01-01,141351.563
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1952-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1952-01-01,237096.56
+19,Estimates,Asia,k,935,Region,1840,1952-01-01,1464833.757
+20,Estimates,Europe,l,908,Region,1840,1952-01-01,559694.362
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1952-01-01,177915.929
+22,Estimates,Northern America,n,905,Region,1840,1952-01-01,177778.5
+23,Estimates,Oceania,o,909,Region,1840,1952-01-01,13542.582
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1952-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1953-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1953-01-01,843787.543
+4,Estimates,Less developed regions,c,902,Development Group,1803,1953-01-01,1833821.518
+5,Estimates,Least developed countries,d,941,Development Group,902,1953-01-01,206985.638
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1953-01-01,1626835.88
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1953-01-01,110422.977
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1953-01-01,25187.414
+11,Estimates,High-income countries,h,1503,Income Group,1802,1953-01-01,720435.909
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1953-01-01,1812536.176
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1953-01-01,1004407.601
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1953-01-01,808128.575
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1953-01-01,143768.504
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1953-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1953-01-01,242092.456
+19,Estimates,Asia,k,935,Region,1840,1953-01-01,1492894.964
+20,Estimates,Europe,l,908,Region,1840,1953-01-01,565281.964
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1953-01-01,182708.882
+22,Estimates,Northern America,n,905,Region,1840,1953-01-01,180813.186
+23,Estimates,Oceania,o,909,Region,1840,1953-01-01,13817.609
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1953-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1954-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1954-01-01,854060.456
+4,Estimates,Less developed regions,c,902,Development Group,1803,1954-01-01,1870786.298
+5,Estimates,Least developed countries,d,941,Development Group,902,1954-01-01,211133.084
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1954-01-01,1659653.214
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1954-01-01,112894.291
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1954-01-01,25710.386
+11,Estimates,High-income countries,h,1503,Income Group,1802,1954-01-01,729595.892
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1954-01-01,1847972.585
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1954-01-01,1023703.187
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1954-01-01,824269.398
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1954-01-01,146387.095
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1954-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1954-01-01,247310.597
+19,Estimates,Asia,k,935,Region,1840,1954-01-01,1520767.943
+20,Estimates,Europe,l,908,Region,1840,1954-01-01,570969.74
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1954-01-01,187647.746
+22,Estimates,Northern America,n,905,Region,1840,1954-01-01,184051.533
+23,Estimates,Oceania,o,909,Region,1840,1954-01-01,14099.195
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1954-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1955-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1955-01-01,864429.512
+4,Estimates,Less developed regions,c,902,Development Group,1803,1955-01-01,1908590.403
+5,Estimates,Least developed countries,d,941,Development Group,902,1955-01-01,215486.293
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1955-01-01,1693104.11
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1955-01-01,115488.177
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1955-01-01,26248.781
+11,Estimates,High-income countries,h,1503,Income Group,1802,1955-01-01,738928.605
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1955-01-01,1883962.076
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1955-01-01,1042795.683
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1955-01-01,841166.393
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1955-01-01,149213.767
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1955-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1955-01-01,252748.917
+19,Estimates,Asia,k,935,Region,1840,1955-01-01,1549041.914
+20,Estimates,Europe,l,908,Region,1840,1955-01-01,576678.764
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1955-01-01,192727.225
+22,Estimates,Northern America,n,905,Region,1840,1955-01-01,187430.405
+23,Estimates,Oceania,o,909,Region,1840,1955-01-01,14392.69
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1955-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1956-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1956-01-01,874823.542
+4,Estimates,Less developed regions,c,902,Development Group,1803,1956-01-01,1947619.712
+5,Estimates,Least developed countries,d,941,Development Group,902,1956-01-01,220061.424
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1956-01-01,1727558.288
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1956-01-01,118200.997
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1956-01-01,26800.677
+11,Estimates,High-income countries,h,1503,Income Group,1802,1956-01-01,748379.088
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1956-01-01,1920879.341
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1956-01-01,1062079.981
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1956-01-01,858799.36
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1956-01-01,152243.268
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1956-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1956-01-01,258408.217
+19,Estimates,Asia,k,935,Region,1840,1956-01-01,1578122.023
+20,Estimates,Europe,l,908,Region,1840,1956-01-01,582371.318
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1956-01-01,197948.656
+22,Estimates,Northern America,n,905,Region,1840,1956-01-01,190892.803
+23,Estimates,Oceania,o,909,Region,1840,1956-01-01,14700.237
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1956-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1957-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1957-01-01,885207.006
+4,Estimates,Less developed regions,c,902,Development Group,1803,1957-01-01,1988099.052
+5,Estimates,Least developed countries,d,941,Development Group,902,1957-01-01,224862.263
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1957-01-01,1763236.789
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1957-01-01,121030.351
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1957-01-01,27366.949
+11,Estimates,High-income countries,h,1503,Income Group,1802,1957-01-01,757921.342
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1957-01-01,1958956.182
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1957-01-01,1081793.817
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1957-01-01,877162.365
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1957-01-01,155459.336
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1957-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1957-01-01,264292.214
+19,Estimates,Asia,k,935,Region,1840,1957-01-01,1608237.026
+20,Estimates,Europe,l,908,Region,1840,1957-01-01,588048.223
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1957-01-01,203319.926
+22,Estimates,Northern America,n,905,Region,1840,1957-01-01,194387.684
+23,Estimates,Oceania,o,909,Region,1840,1957-01-01,15020.985
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1957-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1958-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1958-01-01,895575.899
+4,Estimates,Less developed regions,c,902,Development Group,1803,1958-01-01,2030110.781
+5,Estimates,Least developed countries,d,941,Development Group,902,1958-01-01,229882.003
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1958-01-01,1800228.778
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1958-01-01,123975.284
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1958-01-01,27950.618
+11,Estimates,High-income countries,h,1503,Income Group,1802,1958-01-01,767554.297
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1958-01-01,1998297.688
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1958-01-01,1102036.117
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1958-01-01,896261.571
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1958-01-01,158836.732
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1958-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1958-01-01,270407.028
+19,Estimates,Asia,k,935,Region,1840,1958-01-01,1639460.782
+20,Estimates,Europe,l,908,Region,1840,1958-01-01,593743.357
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1958-01-01,208853.819
+22,Estimates,Northern America,n,905,Region,1840,1958-01-01,197870.177
+23,Estimates,Oceania,o,909,Region,1840,1958-01-01,15351.517
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1958-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1959-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1959-01-01,905949.166
+4,Estimates,Less developed regions,c,902,Development Group,1803,1959-01-01,2073626.981
+5,Estimates,Least developed countries,d,941,Development Group,902,1959-01-01,235105.727
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1959-01-01,1838521.254
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1959-01-01,127035.496
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1959-01-01,28556.334
+11,Estimates,High-income countries,h,1503,Income Group,1802,1959-01-01,777294.979
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1959-01-01,2038909.812
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1959-01-01,1122797.982
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1959-01-01,916111.83
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1959-01-01,162344.218
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1959-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1959-01-01,276760.722
+19,Estimates,Asia,k,935,Region,1840,1959-01-01,1671747.88
+20,Estimates,Europe,l,908,Region,1840,1959-01-01,599513.229
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1959-01-01,214566.099
+22,Estimates,Northern America,n,905,Region,1840,1959-01-01,201301.492
+23,Estimates,Oceania,o,909,Region,1840,1959-01-01,15686.725
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1959-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1960-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1960-01-01,916344.412
+4,Estimates,Less developed regions,c,902,Development Group,1803,1960-01-01,2118605.303
+5,Estimates,Least developed countries,d,941,Development Group,902,1960-01-01,240518.397
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1960-01-01,1878086.906
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1960-01-01,130210.232
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1960-01-01,29188.016
+11,Estimates,High-income countries,h,1503,Income Group,1802,1960-01-01,787158.23
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1960-01-01,2080780.919
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1960-01-01,1144055.207
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1960-01-01,936725.712
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1960-01-01,165954.459
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1960-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1960-01-01,283361.171
+19,Estimates,Asia,k,935,Region,1840,1960-01-01,1705041.057
+20,Estimates,Europe,l,908,Region,1840,1960-01-01,605406.966
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1960-01-01,220469.724
+22,Estimates,Northern America,n,905,Region,1840,1960-01-01,204649.165
+23,Estimates,Oceania,o,909,Region,1840,1960-01-01,16021.632
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1960-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1961-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1961-01-01,926751.853
+4,Estimates,Less developed regions,c,902,Development Group,1803,1961-01-01,2165091.66
+5,Estimates,Least developed countries,d,941,Development Group,902,1961-01-01,246113.624
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1961-01-01,1918978.036
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1961-01-01,133497.248
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1961-01-01,29846.559
+11,Estimates,High-income countries,h,1503,Income Group,1802,1961-01-01,797134.746
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1961-01-01,2123969.948
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1961-01-01,1165867.501
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1961-01-01,958102.447
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1961-01-01,169654.329
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1961-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1961-01-01,290214.467
+19,Estimates,Asia,k,935,Region,1840,1961-01-01,1739385.847
+20,Estimates,Europe,l,908,Region,1840,1961-01-01,611434.035
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1961-01-01,226567.965
+22,Estimates,Northern America,n,905,Region,1840,1961-01-01,207887.204
+23,Estimates,Oceania,o,909,Region,1840,1961-01-01,16353.995
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1961-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1962-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1962-01-01,937111.481
+4,Estimates,Less developed regions,c,902,Development Group,1803,1962-01-01,2213309.28
+5,Estimates,Least developed countries,d,941,Development Group,902,1962-01-01,251900.655
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1962-01-01,1961408.625
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1962-01-01,136891.356
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1962-01-01,30527.698
+11,Estimates,High-income countries,h,1503,Income Group,1802,1962-01-01,807172.374
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1962-01-01,2168682.161
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1962-01-01,1188464.496
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1962-01-01,980217.665
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1962-01-01,173453.86
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1962-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1962-01-01,297322.604
+19,Estimates,Asia,k,935,Region,1840,1962-01-01,1775030.792
+20,Estimates,Europe,l,908,Region,1840,1962-01-01,617536.17
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1962-01-01,232848.86
+22,Estimates,Northern America,n,905,Region,1840,1962-01-01,210996.182
+23,Estimates,Oceania,o,909,Region,1840,1962-01-01,16686.153
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1962-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1963-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1963-01-01,947303.398
+4,Estimates,Less developed regions,c,902,Development Group,1803,1963-01-01,2263697.548
+5,Estimates,Least developed countries,d,941,Development Group,902,1963-01-01,257908.038
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1963-01-01,2005789.51
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1963-01-01,140384.28
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1963-01-01,31221.321
+11,Estimates,High-income countries,h,1503,Income Group,1802,1963-01-01,817167.61
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1963-01-01,2215302.641
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1963-01-01,1212283.265
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1963-01-01,1003019.376
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1963-01-01,177390.309
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1963-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1963-01-01,304683.366
+19,Estimates,Asia,k,935,Region,1840,1963-01-01,1812470.355
+20,Estimates,Europe,l,908,Region,1840,1963-01-01,623575.133
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1963-01-01,239282.573
+22,Estimates,Northern America,n,905,Region,1840,1963-01-01,213963.478
+23,Estimates,Oceania,o,909,Region,1840,1963-01-01,17026.041
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1963-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1964-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1964-01-01,957175.398
+4,Estimates,Less developed regions,c,902,Development Group,1803,1964-01-01,2316802.874
+5,Estimates,Least developed countries,d,941,Development Group,902,1964-01-01,264174.076
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1964-01-01,2052628.798
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1964-01-01,143965.748
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1964-01-01,31913.895
+11,Estimates,High-income countries,h,1503,Income Group,1802,1964-01-01,826989.217
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1964-01-01,2264302.829
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1964-01-01,1237863.009
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1964-01-01,1026439.82
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1964-01-01,181516.845
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1964-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1964-01-01,312291.849
+19,Estimates,Asia,k,935,Region,1840,1964-01-01,1852323.205
+20,Estimates,Europe,l,908,Region,1840,1964-01-01,629367.166
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1964-01-01,245828.548
+22,Estimates,Northern America,n,905,Region,1840,1964-01-01,216782.875
+23,Estimates,Oceania,o,909,Region,1840,1964-01-01,17384.629
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1964-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1965-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1965-01-01,966624.194
+4,Estimates,Less developed regions,c,902,Development Group,1803,1965-01-01,2372959.316
+5,Estimates,Least developed countries,d,941,Development Group,902,1965-01-01,270720.935
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1965-01-01,2102238.381
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1965-01-01,147627.743
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1965-01-01,32595.494
+11,Estimates,High-income countries,h,1503,Income Group,1802,1965-01-01,836545.33
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1965-01-01,2315967.485
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1965-01-01,1265536.21
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1965-01-01,1050431.275
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1965-01-01,185870.726
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1965-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1965-01-01,320147.295
+19,Estimates,Asia,k,935,Region,1840,1965-01-01,1894974.242
+20,Estimates,Europe,l,908,Region,1840,1965-01-01,634783.191
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1965-01-01,252455.927
+22,Estimates,Northern America,n,905,Region,1840,1965-01-01,219454.161
+23,Estimates,Oceania,o,909,Region,1840,1965-01-01,17768.694
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1965-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1966-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1966-01-01,975584.91
+4,Estimates,Less developed regions,c,902,Development Group,1803,1966-01-01,2432337.721
+5,Estimates,Least developed countries,d,941,Development Group,902,1966-01-01,277573.103
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1966-01-01,2154764.618
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1966-01-01,151360.238
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1966-01-01,33261.207
+11,Estimates,High-income countries,h,1503,Income Group,1802,1966-01-01,845778.994
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1966-01-01,2370446.71
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1966-01-01,1295466.032
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1966-01-01,1074980.678
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1966-01-01,190464.081
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1966-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1966-01-01,328256.594
+19,Estimates,Asia,k,935,Region,1840,1966-01-01,1940602.034
+20,Estimates,Europe,l,908,Region,1840,1966-01-01,639761.941
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1966-01-01,259154.154
+22,Estimates,Northern America,n,905,Region,1840,1966-01-01,221966.407
+23,Estimates,Oceania,o,909,Region,1840,1966-01-01,18181.501
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1966-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1967-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1967-01-01,984097.406
+4,Estimates,Less developed regions,c,902,Development Group,1803,1967-01-01,2494672.698
+5,Estimates,Least developed countries,d,941,Development Group,902,1967-01-01,284708.606
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1967-01-01,2209964.092
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1967-01-01,155160.832
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1967-01-01,33913.414
+11,Estimates,High-income countries,h,1503,Income Group,1802,1967-01-01,854716.245
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1967-01-01,2427505.364
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1967-01-01,1327401.338
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1967-01-01,1100104.026
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1967-01-01,195281.267
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1967-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1967-01-01,336631.177
+19,Estimates,Asia,k,935,Region,1840,1967-01-01,1988923.053
+20,Estimates,Europe,l,908,Region,1840,1967-01-01,644345.492
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1967-01-01,265925.616
+22,Estimates,Northern America,n,905,Region,1840,1967-01-01,224327.311
+23,Estimates,Oceania,o,909,Region,1840,1967-01-01,18617.455
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1967-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1968-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1968-01-01,992293.268
+4,Estimates,Less developed regions,c,902,Development Group,1803,1968-01-01,2559306.168
+5,Estimates,Least developed countries,d,941,Development Group,902,1968-01-01,292046.003
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1968-01-01,2267260.165
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1968-01-01,159036.616
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1968-01-01,34558.783
+11,Estimates,High-income countries,h,1503,Income Group,1802,1968-01-01,863451.956
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1968-01-01,2486550.071
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1968-01-01,1360729.497
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1968-01-01,1125820.574
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1968-01-01,200296.634
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1968-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1968-01-01,345280.354
+19,Estimates,Asia,k,935,Region,1840,1968-01-01,2039270.161
+20,Estimates,Europe,l,908,Region,1840,1968-01-01,648636.121
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1968-01-01,272768.308
+22,Estimates,Northern America,n,905,Region,1840,1968-01-01,226580.62
+23,Estimates,Oceania,o,909,Region,1840,1968-01-01,19063.872
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1968-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1969-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1969-01-01,1000365.65
+4,Estimates,Less developed regions,c,902,Development Group,1803,1969-01-01,2625315.315
+5,Estimates,Least developed countries,d,941,Development Group,902,1969-01-01,299473.694
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1969-01-01,2325841.621
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1969-01-01,162999.633
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1969-01-01,35207.906
+11,Estimates,High-income countries,h,1503,Income Group,1802,1969-01-01,872128.516
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1969-01-01,2546750.637
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1969-01-01,1394587.98
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1969-01-01,1152162.657
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1969-01-01,205471.918
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1969-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1969-01-01,354214.822
+19,Estimates,Asia,k,935,Region,1840,1969-01-01,2090702.385
+20,Estimates,Europe,l,908,Region,1840,1969-01-01,652789.653
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1969-01-01,279684.291
+22,Estimates,Northern America,n,905,Region,1840,1969-01-01,228786.676
+23,Estimates,Oceania,o,909,Region,1840,1969-01-01,19503.138
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1969-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1970-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1970-01-01,1008451.91
+4,Estimates,Less developed regions,c,902,Development Group,1803,1970-01-01,2691985.132
+5,Estimates,Least developed countries,d,941,Development Group,902,1970-01-01,306916.898
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1970-01-01,2385068.234
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1970-01-01,167054.846
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1970-01-01,35868.046
+11,Estimates,High-income countries,h,1503,Income Group,1802,1970-01-01,880845.621
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1970-01-01,2607460.629
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1970-01-01,1428300.048
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1970-01-01,1179160.581
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1970-01-01,210778.276
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1970-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1970-01-01,363447.593
+19,Estimates,Asia,k,935,Region,1840,1970-01-01,2142480.29
+20,Estimates,Europe,l,908,Region,1840,1970-01-01,656919.37
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1970-01-01,286675.705
+22,Estimates,Northern America,n,905,Region,1840,1970-01-01,230991.859
+23,Estimates,Oceania,o,909,Region,1840,1970-01-01,19922.225
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1970-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1971-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1971-01-01,1016600.687
+4,Estimates,Less developed regions,c,902,Development Group,1803,1971-01-01,2759159.343
+5,Estimates,Least developed countries,d,941,Development Group,902,1971-01-01,314345.051
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1971-01-01,2444814.292
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1971-01-01,171216.124
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1971-01-01,36542.228
+11,Estimates,High-income countries,h,1503,Income Group,1802,1971-01-01,889638.931
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1971-01-01,2668544.343
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1971-01-01,1461718.44
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1971-01-01,1206825.903
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1971-01-01,216209.476
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1971-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1971-01-01,372983.506
+19,Estimates,Asia,k,935,Region,1840,1971-01-01,2194450.679
+20,Estimates,Europe,l,908,Region,1840,1971-01-01,661056.103
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1971-01-01,293738.009
+22,Estimates,Northern America,n,905,Region,1840,1971-01-01,233213.535
+23,Estimates,Oceania,o,909,Region,1840,1971-01-01,20318.198
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1971-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1972-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1972-01-01,1024762.958
+4,Estimates,Less developed regions,c,902,Development Group,1803,1972-01-01,2826887.63
+5,Estimates,Least developed countries,d,941,Development Group,902,1972-01-01,321797.948
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1972-01-01,2505089.682
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1972-01-01,175471.518
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1972-01-01,37226.947
+11,Estimates,High-income countries,h,1503,Income Group,1802,1972-01-01,898464.754
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1972-01-01,2730038.163
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1972-01-01,1494865.804
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1972-01-01,1235172.359
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1972-01-01,221771.911
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1972-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1972-01-01,382837.766
+19,Estimates,Asia,k,935,Region,1840,1972-01-01,2246636.202
+20,Estimates,Europe,l,908,Region,1840,1972-01-01,665163.511
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1972-01-01,300869.446
+22,Estimates,Northern America,n,905,Region,1840,1972-01-01,235449.567
+23,Estimates,Oceania,o,909,Region,1840,1972-01-01,20694.096
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1972-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1973-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1973-01-01,1032860.707
+4,Estimates,Less developed regions,c,902,Development Group,1803,1973-01-01,2894919.812
+5,Estimates,Least developed countries,d,941,Development Group,902,1973-01-01,329357.734
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1973-01-01,2565562.078
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1973-01-01,179770.318
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1973-01-01,37914.762
+11,Estimates,High-income countries,h,1503,Income Group,1802,1973-01-01,907248.695
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1973-01-01,2791686.823
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1973-01-01,1527449.244
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1973-01-01,1264237.579
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1973-01-01,227463.967
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1973-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1973-01-01,393044.438
+19,Estimates,Asia,k,935,Region,1840,1973-01-01,2298696.357
+20,Estimates,Europe,l,908,Region,1840,1973-01-01,669207.973
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1973-01-01,308078.654
+22,Estimates,Northern America,n,905,Region,1840,1973-01-01,237703.018
+23,Estimates,Oceania,o,909,Region,1840,1973-01-01,21050.079
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1973-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1974-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1974-01-01,1040773.52
+4,Estimates,Less developed regions,c,902,Development Group,1803,1974-01-01,2963020.658
+5,Estimates,Least developed countries,d,941,Development Group,902,1974-01-01,337142.875
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1974-01-01,2625877.783
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1974-01-01,184044.36
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1974-01-01,38594.833
+11,Estimates,High-income countries,h,1503,Income Group,1802,1974-01-01,915880.232
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1974-01-01,2853239.057
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1974-01-01,1559172.735
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1974-01-01,1294066.322
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1974-01-01,233286.843
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1974-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1974-01-01,403645.936
+19,Estimates,Asia,k,935,Region,1840,1974-01-01,2350279.012
+20,Estimates,Europe,l,908,Region,1840,1974-01-01,673132.239
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1974-01-01,315378.185
+22,Estimates,Northern America,n,905,Region,1840,1974-01-01,239970.84
+23,Estimates,Oceania,o,909,Region,1840,1974-01-01,21387.966
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1974-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1975-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1975-01-01,1048416.226
+4,Estimates,Less developed regions,c,902,Development Group,1803,1975-01-01,3031064.248
+5,Estimates,Least developed countries,d,941,Development Group,902,1975-01-01,345242.741
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1975-01-01,2685821.507
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1975-01-01,188250.846
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1975-01-01,39260.211
+11,Estimates,High-income countries,h,1503,Income Group,1802,1975-01-01,924282.549
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1975-01-01,2914555.439
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1975-01-01,1589857.227
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1975-01-01,1324698.212
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1975-01-01,239242.401
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1975-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1975-01-01,414674.676
+19,Estimates,Asia,k,935,Region,1840,1975-01-01,2401171.424
+20,Estimates,Europe,l,908,Region,1840,1975-01-01,676895.457
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1975-01-01,322777.147
+22,Estimates,Northern America,n,905,Region,1840,1975-01-01,242251.495
+23,Estimates,Oceania,o,909,Region,1840,1975-01-01,21710.275
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1975-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1976-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1976-01-01,1055773.866
+4,Estimates,Less developed regions,c,902,Development Group,1803,1976-01-01,3098892.961
+5,Estimates,Least developed countries,d,941,Development Group,902,1976-01-01,353691.447
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1976-01-01,2745201.514
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1976-01-01,192374.933
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1976-01-01,39907.807
+11,Estimates,High-income countries,h,1503,Income Group,1802,1976-01-01,932435.626
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1976-01-01,2975473.551
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1976-01-01,1619357.066
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1976-01-01,1356116.485
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1976-01-01,245339.107
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1976-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1976-01-01,426144.456
+19,Estimates,Asia,k,935,Region,1840,1976-01-01,2451184.258
+20,Estimates,Europe,l,908,Region,1840,1976-01-01,680497.657
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1976-01-01,330272.366
+22,Estimates,Northern America,n,905,Region,1840,1976-01-01,244552.723
+23,Estimates,Oceania,o,909,Region,1840,1976-01-01,22015.367
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1976-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1977-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1977-01-01,1062884.618
+4,Estimates,Less developed regions,c,902,Development Group,1803,1977-01-01,3166621.301
+5,Estimates,Least developed countries,d,941,Development Group,902,1977-01-01,362475.157
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1977-01-01,2804146.144
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1977-01-01,196449.663
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1977-01-01,40542.245
+11,Estimates,High-income countries,h,1503,Income Group,1802,1977-01-01,940374.534999999
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1977-01-01,3036109.38
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1977-01-01,1647778.348
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1977-01-01,1388331.032
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1977-01-01,251579.526
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1977-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1977-01-01,438054.807
+19,Estimates,Asia,k,935,Region,1840,1977-01-01,2500443.525
+20,Estimates,Europe,l,908,Region,1840,1977-01-01,683959.538
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1977-01-01,337860.349
+22,Estimates,Northern America,n,905,Region,1840,1977-01-01,246882.303
+23,Estimates,Oceania,o,909,Region,1840,1977-01-01,22305.397
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1977-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1978-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1978-01-01,1069781.204
+4,Estimates,Less developed regions,c,902,Development Group,1803,1978-01-01,3234752.395
+5,Estimates,Least developed countries,d,941,Development Group,902,1978-01-01,371577.357
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1978-01-01,2863175.038
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1978-01-01,200540.066
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1978-01-01,41172.753
+11,Estimates,High-income countries,h,1503,Income Group,1802,1978-01-01,948144.311
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1978-01-01,3096965.495
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1978-01-01,1675530.559
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1978-01-01,1421434.936
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1978-01-01,257953.662
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1978-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1978-01-01,450403.897
+19,Estimates,Asia,k,935,Region,1840,1978-01-01,2549465.8
+20,Estimates,Europe,l,908,Region,1840,1978-01-01,687285.86
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1978-01-01,345548.257
+22,Estimates,Northern America,n,905,Region,1840,1978-01-01,249237.761
+23,Estimates,Oceania,o,909,Region,1840,1978-01-01,22592.024
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1978-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1979-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1979-01-01,1076514.38
+4,Estimates,Less developed regions,c,902,Development Group,1803,1979-01-01,3303991.805
+5,Estimates,Least developed countries,d,941,Development Group,902,1979-01-01,380963.357
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1979-01-01,2923028.448
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1979-01-01,204737.164
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1979-01-01,41812.564
+11,Estimates,High-income countries,h,1503,Income Group,1802,1979-01-01,955812.415
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1979-01-01,3158747.65
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1979-01-01,1703200.559
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1979-01-01,1455547.091
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1979-01-01,264447.329
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1979-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1979-01-01,463183.561
+19,Estimates,Asia,k,935,Region,1840,1979-01-01,2598988.419
+20,Estimates,Europe,l,908,Region,1840,1979-01-01,690485.017
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1979-01-01,353344.976
+22,Estimates,Northern America,n,905,Region,1840,1979-01-01,251613.704
+23,Estimates,Oceania,o,909,Region,1840,1979-01-01,22890.508
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1979-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1980-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1980-01-01,1083125.601
+4,Estimates,Less developed regions,c,902,Development Group,1803,1980-01-01,3374877.865
+5,Estimates,Least developed countries,d,941,Development Group,902,1980-01-01,390612.544
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1980-01-01,2984265.321
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1980-01-01,209112.912
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1980-01-01,42471.239
+11,Estimates,High-income countries,h,1503,Income Group,1802,1980-01-01,963431.383999999
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1980-01-01,3221987.819
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1980-01-01,1731254.574
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1980-01-01,1490733.245
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1980-01-01,271057.726
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1980-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1980-01-01,476386.225
+19,Estimates,Asia,k,935,Region,1840,1980-01-01,2649578.327
+20,Estimates,Europe,l,908,Region,1840,1980-01-01,693566.516
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1980-01-01,361253.181
+22,Estimates,Northern America,n,905,Region,1840,1980-01-01,254007.133
+23,Estimates,Oceania,o,909,Region,1840,1980-01-01,23212.084
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1980-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1981-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1981-01-01,1089607.256
+4,Estimates,Less developed regions,c,902,Development Group,1803,1981-01-01,3447389.363
+5,Estimates,Least developed countries,d,941,Development Group,902,1981-01-01,400528.973
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1981-01-01,3046860.39
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1981-01-01,213677.203
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1981-01-01,43152.225
+11,Estimates,High-income countries,h,1503,Income Group,1802,1981-01-01,971015.167
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1981-01-01,3286643.401
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1981-01-01,1759631.896
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1981-01-01,1527011.505
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1981-01-01,277785.336
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1981-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1981-01-01,490003.905
+19,Estimates,Asia,k,935,Region,1840,1981-01-01,2701224.867
+20,Estimates,Europe,l,908,Region,1840,1981-01-01,696513.45
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1981-01-01,369274.506
+22,Estimates,Northern America,n,905,Region,1840,1981-01-01,256418.904
+23,Estimates,Oceania,o,909,Region,1840,1981-01-01,23560.987
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1981-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1982-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1982-01-01,1095957.014
+4,Estimates,Less developed regions,c,902,Development Group,1803,1982-01-01,3521429.512
+5,Estimates,Least developed countries,d,941,Development Group,902,1982-01-01,410740.623
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1982-01-01,3110688.889
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1982-01-01,218427.918
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1982-01-01,43853.048
+11,Estimates,High-income countries,h,1503,Income Group,1802,1982-01-01,978558.898
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1982-01-01,3352592.421
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1982-01-01,1788295.208
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1982-01-01,1564297.213
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1982-01-01,284656.962
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1982-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1982-01-01,504034.176
+19,Estimates,Asia,k,935,Region,1840,1982-01-01,2753837.835
+20,Estimates,Europe,l,908,Region,1840,1982-01-01,699330.019
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1982-01-01,377395.867
+22,Estimates,Northern America,n,905,Region,1840,1982-01-01,258854.001
+23,Estimates,Oceania,o,909,Region,1840,1982-01-01,23934.628
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1982-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1983-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1983-01-01,1102226.765
+4,Estimates,Less developed regions,c,902,Development Group,1803,1983-01-01,3597342.422
+5,Estimates,Least developed countries,d,941,Development Group,902,1983-01-01,421279.177
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1983-01-01,3176063.245
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1983-01-01,223408.827
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1983-01-01,44570.244
+11,Estimates,High-income countries,h,1503,Income Group,1802,1983-01-01,986073.423
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1983-01-01,3420161.356
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1983-01-01,1817741.479
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1983-01-01,1602419.877
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1983-01-01,291729.927
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1983-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1983-01-01,518479.76
+19,Estimates,Asia,k,935,Region,1840,1983-01-01,2807785.245
+20,Estimates,Europe,l,908,Region,1840,1983-01-01,702070.425
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1983-01-01,385586.591
+22,Estimates,Northern America,n,905,Region,1840,1983-01-01,261318.321
+23,Estimates,Oceania,o,909,Region,1840,1983-01-01,24328.845
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1983-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1984-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1984-01-01,1108482.387
+4,Estimates,Less developed regions,c,902,Development Group,1803,1984-01-01,3675529.13
+5,Estimates,Least developed countries,d,941,Development Group,902,1984-01-01,432185.306
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1984-01-01,3243343.824
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1984-01-01,228668.602
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1984-01-01,45297.828
+11,Estimates,High-income countries,h,1503,Income Group,1802,1984-01-01,993567.071
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1984-01-01,3489732.219
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1984-01-01,1848584.481
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1984-01-01,1641147.738
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1984-01-01,299078.655
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1984-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1984-01-01,533345.152
+19,Estimates,Asia,k,935,Region,1840,1984-01-01,2863496.847
+20,Estimates,Europe,l,908,Region,1840,1984-01-01,704807.481
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1984-01-01,393806.371
+22,Estimates,Northern America,n,905,Region,1840,1984-01-01,263819.447
+23,Estimates,Oceania,o,909,Region,1840,1984-01-01,24736.219
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1984-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1985-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1985-01-01,1114763.002
+4,Estimates,Less developed regions,c,902,Development Group,1803,1985-01-01,3756158.664
+5,Estimates,Least developed countries,d,941,Development Group,902,1985-01-01,443491.299
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1985-01-01,3312667.365
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1985-01-01,234235.216
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1985-01-01,46031.702
+11,Estimates,High-income countries,h,1503,Income Group,1802,1985-01-01,1001046.88
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1985-01-01,3561445.875
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1985-01-01,1881154.742
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1985-01-01,1680291.133
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1985-01-01,306762.094
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1985-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1985-01-01,548626.14
+19,Estimates,Asia,k,935,Region,1840,1985-01-01,2921173.21
+20,Estimates,Europe,l,908,Region,1840,1985-01-01,707584.186
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1985-01-01,402023.662
+22,Estimates,Northern America,n,905,Region,1840,1985-01-01,266363.427
+23,Estimates,Oceania,o,909,Region,1840,1985-01-01,25151.041
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1985-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1986-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1986-01-01,1121097.639
+4,Estimates,Less developed regions,c,902,Development Group,1803,1986-01-01,3839470.361
+5,Estimates,Least developed countries,d,941,Development Group,902,1986-01-01,455193.679
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1986-01-01,3384276.682
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1986-01-01,240137.15
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1986-01-01,46770.061
+11,Estimates,High-income countries,h,1503,Income Group,1802,1986-01-01,1008519.17
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1986-01-01,3635556.826
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1986-01-01,1915773.961
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1986-01-01,1719782.865
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1986-01-01,314787.163
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1986-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1986-01-01,564327.298
+19,Estimates,Asia,k,935,Region,1840,1986-01-01,2981064.008
+20,Estimates,Europe,l,908,Region,1840,1986-01-01,710422.127
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1986-01-01,410223.399
+22,Estimates,Northern America,n,905,Region,1840,1986-01-01,268958.509
+23,Estimates,Oceania,o,909,Region,1840,1986-01-01,25572.659
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1986-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1987-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1987-01-01,1127452.523
+4,Estimates,Less developed regions,c,902,Development Group,1803,1987-01-01,3925069.475
+5,Estimates,Least developed countries,d,941,Development Group,902,1987-01-01,467290.486
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1987-01-01,3457778.989
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1987-01-01,246350.672
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1987-01-01,47514.402
+11,Estimates,High-income countries,h,1503,Income Group,1802,1987-01-01,1015990.183
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1987-01-01,3711631.32
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1987-01-01,1952035.61
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1987-01-01,1759595.71
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1987-01-01,323153.686
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1987-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1987-01-01,580424.292
+19,Estimates,Asia,k,935,Region,1840,1987-01-01,3042805.985
+20,Estimates,Europe,l,908,Region,1840,1987-01-01,713279.278
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1987-01-01,418404.105
+22,Estimates,Northern America,n,905,Region,1840,1987-01-01,271606.615
+23,Estimates,Oceania,o,909,Region,1840,1987-01-01,26001.723
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1987-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1988-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1988-01-01,1133726.567
+4,Estimates,Less developed regions,c,902,Development Group,1803,1988-01-01,4011699.427
+5,Estimates,Least developed countries,d,941,Development Group,902,1988-01-01,479814.027
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1988-01-01,3531885.4
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1988-01-01,252785.901
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1988-01-01,48266.846
+11,Estimates,High-income countries,h,1503,Income Group,1802,1988-01-01,1023466.641
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1988-01-01,3788266.471
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1988-01-01,1988638.748
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1988-01-01,1799627.723
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1988-01-01,331902.035
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1988-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1988-01-01,596849.007
+19,Estimates,Asia,k,935,Region,1840,1988-01-01,3105220.238
+20,Estimates,Europe,l,908,Region,1840,1988-01-01,716056.662
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1988-01-01,426564.862
+22,Estimates,Northern America,n,905,Region,1840,1988-01-01,274300.338
+23,Estimates,Oceania,o,909,Region,1840,1988-01-01,26434.887
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1988-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1989-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1989-01-01,1139778.902
+4,Estimates,Less developed regions,c,902,Development Group,1803,1989-01-01,4097662.532
+5,Estimates,Least developed countries,d,941,Development Group,902,1989-01-01,492803.041
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1989-01-01,3604859.491
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1989-01-01,259316.867
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1989-01-01,49030.671
+11,Estimates,High-income countries,h,1503,Income Group,1802,1989-01-01,1030954.204
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1989-01-01,3863575.843
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1989-01-01,2023800.601
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1989-01-01,1839775.242
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1989-01-01,341076.962
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1989-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1989-01-01,613512.108
+19,Estimates,Asia,k,935,Region,1840,1989-01-01,3166705.918
+20,Estimates,Europe,l,908,Region,1840,1989-01-01,718617.276
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1989-01-01,434709.748
+22,Estimates,Northern America,n,905,Region,1840,1989-01-01,277028.164
+23,Estimates,Oceania,o,909,Region,1840,1989-01-01,26868.22
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1989-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1990-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1990-01-01,1145507.68
+4,Estimates,Less developed regions,c,902,Development Group,1803,1990-01-01,4181723.361
+5,Estimates,Least developed countries,d,941,Development Group,902,1990-01-01,506275.626
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1990-01-01,3675447.735
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1990-01-01,265852.002
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1990-01-01,49807.705
+11,Estimates,High-income countries,h,1503,Income Group,1802,1990-01-01,1038455.421
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1990-01-01,3936198.975
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1990-01-01,2056240.366
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1990-01-01,1879958.609
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1990-01-01,350700.961
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1990-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1990-01-01,630349.685
+19,Estimates,Asia,k,935,Region,1840,1990-01-01,3226098.922
+20,Estimates,Europe,l,908,Region,1840,1990-01-01,720858.411
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1990-01-01,442840.078
+22,Estimates,Northern America,n,905,Region,1840,1990-01-01,279785.251
+23,Estimates,Oceania,o,909,Region,1840,1990-01-01,27298.694
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1990-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1991-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1991-01-01,1150893.431
+4,Estimates,Less developed regions,c,902,Development Group,1803,1991-01-01,4263395.952
+5,Estimates,Least developed countries,d,941,Development Group,902,1991-01-01,520262.436
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1991-01-01,3743133.516
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1991-01-01,272365.925
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1991-01-01,50597.741
+11,Estimates,High-income countries,h,1503,Income Group,1802,1991-01-01,1045985.775
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1991-01-01,4005573.515
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1991-01-01,2085468.339
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1991-01-01,1920105.176
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1991-01-01,360816.169
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1991-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1991-01-01,647344.041
+19,Estimates,Asia,k,935,Region,1840,1991-01-01,3282945.323
+20,Estimates,Europe,l,908,Region,1840,1991-01-01,722775.857
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1991-01-01,450946.515
+22,Estimates,Northern America,n,905,Region,1840,1991-01-01,282552.404
+23,Estimates,Oceania,o,909,Region,1840,1991-01-01,27725.243
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1991-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1992-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1992-01-01,1155966.401
+4,Estimates,Less developed regions,c,902,Development Group,1803,1992-01-01,4342953.492
+5,Estimates,Least developed countries,d,941,Development Group,902,1992-01-01,534731.004
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1992-01-01,3808222.488
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1992-01-01,278882.183
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1992-01-01,51398.046
+11,Estimates,High-income countries,h,1503,Income Group,1802,1992-01-01,1053543.162
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1992-01-01,4072033.691
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1992-01-01,2111839.467
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1992-01-01,1960194.224
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1992-01-01,371393.156
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1992-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1992-01-01,664512.034
+19,Estimates,Asia,k,935,Region,1840,1992-01-01,3337511.634
+20,Estimates,Europe,l,908,Region,1840,1992-01-01,724390.027
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1992-01-01,459018.543
+22,Estimates,Northern America,n,905,Region,1840,1992-01-01,285339.701
+23,Estimates,Oceania,o,909,Region,1840,1992-01-01,28147.954
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1992-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1993-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1993-01-01,1160736.998
+4,Estimates,Less developed regions,c,902,Development Group,1803,1993-01-01,4420860.6
+5,Estimates,Least developed countries,d,941,Development Group,902,1993-01-01,549559.275
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1993-01-01,3871301.325
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1993-01-01,285419.539
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1993-01-01,52203.196
+11,Estimates,High-income countries,h,1503,Income Group,1802,1993-01-01,1061090.051
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1993-01-01,4136227.351
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1993-01-01,2135960.528
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1993-01-01,2000266.823
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1993-01-01,382295.651
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1993-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1993-01-01,681869.333
+19,Estimates,Asia,k,935,Region,1840,1993-01-01,3390245.425
+20,Estimates,Europe,l,908,Region,1840,1993-01-01,725656.793
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1993-01-01,467054.731
+22,Estimates,Northern America,n,905,Region,1840,1993-01-01,288205.114
+23,Estimates,Oceania,o,909,Region,1840,1993-01-01,28566.202
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1993-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1994-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1994-01-01,1165231.553
+4,Estimates,Less developed regions,c,902,Development Group,1803,1994-01-01,4497918.875
+5,Estimates,Least developed countries,d,941,Development Group,902,1994-01-01,564581.12
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1994-01-01,3933337.755
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1994-01-01,292014.298
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1994-01-01,53006.513
+11,Estimates,High-income countries,h,1503,Income Group,1802,1994-01-01,1068574.909
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1994-01-01,4199219.905
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1994-01-01,2158819.677
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1994-01-01,2040400.228
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1994-01-01,393336.006
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1994-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1994-01-01,699445.413
+19,Estimates,Asia,k,935,Region,1840,1994-01-01,3441912.676
+20,Estimates,Europe,l,908,Region,1840,1994-01-01,726529.356
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1994-01-01,475055.721
+22,Estimates,Northern America,n,905,Region,1840,1994-01-01,291227.272
+23,Estimates,Oceania,o,909,Region,1840,1994-01-01,28979.99
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1994-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1995-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1995-01-01,1169481.474
+4,Estimates,Less developed regions,c,902,Development Group,1803,1995-01-01,4574731.456
+5,Estimates,Least developed countries,d,941,Development Group,902,1995-01-01,579681.702
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1995-01-01,3995049.754
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1995-01-01,298698.477
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1995-01-01,53802.264
+11,Estimates,High-income countries,h,1503,Income Group,1802,1995-01-01,1075966.453
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1995-01-01,4261803.632
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1995-01-01,2181157.418
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1995-01-01,2080646.214
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1995-01-01,404386.608
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1995-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1995-01-01,717270.112
+19,Estimates,Asia,k,935,Region,1840,1995-01-01,3493086.998
+20,Estimates,Europe,l,908,Region,1840,1995-01-01,726994.433
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1995-01-01,483018.226
+22,Estimates,Northern America,n,905,Region,1840,1995-01-01,294453.532
+23,Estimates,Oceania,o,909,Region,1840,1995-01-01,29389.629
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1995-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1996-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1996-01-01,1173489.817
+4,Estimates,Less developed regions,c,902,Development Group,1803,1996-01-01,4651402.114
+5,Estimates,Least developed countries,d,941,Development Group,902,1996-01-01,594801.271
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1996-01-01,4056600.843
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1996-01-01,305470.568
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1996-01-01,54591.591
+11,Estimates,High-income countries,h,1503,Income Group,1802,1996-01-01,1083259.347
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1996-01-01,4324146.723
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1996-01-01,2203131.213
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1996-01-01,2121015.51
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1996-01-01,415391.402
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1996-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1996-01-01,735361.107
+19,Estimates,Asia,k,935,Region,1840,1996-01-01,3543851.235
+20,Estimates,Europe,l,908,Region,1840,1996-01-01,727020.289
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1996-01-01,490944.026
+22,Estimates,Northern America,n,905,Region,1840,1996-01-01,297918.803
+23,Estimates,Oceania,o,909,Region,1840,1996-01-01,29796.471
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1996-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1997-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1997-01-01,1177284.072
+4,Estimates,Less developed regions,c,902,Development Group,1803,1997-01-01,4727761.575
+5,Estimates,Least developed countries,d,941,Development Group,902,1997-01-01,609983.284
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1997-01-01,4117778.291
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1997-01-01,312333.915
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1997-01-01,55374.393
+11,Estimates,High-income countries,h,1503,Income Group,1802,1997-01-01,1090483.925
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1997-01-01,4386018.45
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1997-01-01,2224548.998
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1997-01-01,2161469.452
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1997-01-01,426409.399
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1997-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1997-01-01,753737.584
+19,Estimates,Asia,k,935,Region,1840,1997-01-01,3594032.705
+20,Estimates,Europe,l,908,Region,1840,1997-01-01,726669.424
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1997-01-01,498821.719
+22,Estimates,Northern America,n,905,Region,1840,1997-01-01,301582.343
+23,Estimates,Oceania,o,909,Region,1840,1997-01-01,30201.872
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1997-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1998-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1998-01-01,1180954.357
+4,Estimates,Less developed regions,c,902,Development Group,1803,1998-01-01,4803839.718
+5,Estimates,Least developed countries,d,941,Development Group,902,1998-01-01,625342.129
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1998-01-01,4178497.589
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1998-01-01,319332.726
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1998-01-01,56144.072
+11,Estimates,High-income countries,h,1503,Income Group,1802,1998-01-01,1097691.063
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1998-01-01,4447358.478
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1998-01-01,2245404.174
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1998-01-01,2201954.304
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1998-01-01,437569.663
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1998-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1998-01-01,772437.162
+19,Estimates,Asia,k,935,Region,1840,1998-01-01,3643662.915
+20,Estimates,Europe,l,908,Region,1840,1998-01-01,726141.84
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1998-01-01,506620.735
+22,Estimates,Northern America,n,905,Region,1840,1998-01-01,305324.078
+23,Estimates,Oceania,o,909,Region,1840,1998-01-01,30607.345
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1998-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,1999-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,1999-01-01,1184615.559
+4,Estimates,Less developed regions,c,902,Development Group,1803,1999-01-01,4879623.47400001
+5,Estimates,Least developed countries,d,941,Development Group,902,1999-01-01,641046.832
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,1999-01-01,4238576.642
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,1999-01-01,326523.081
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,1999-01-01,56891.878
+11,Estimates,High-income countries,h,1503,Income Group,1802,1999-01-01,1104949.882
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,1999-01-01,4508010.38
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,1999-01-01,2265614.219
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,1999-01-01,2242396.161
+15,Estimates,Low-income countries,h,1500,Income Group,1802,1999-01-01,449060.759
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,1999-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,1999-01-01,791504.165
+19,Estimates,Asia,k,935,Region,1840,1999-01-01,3692736.104
+20,Estimates,Europe,l,908,Region,1840,1999-01-01,725705.442
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,1999-01-01,514301.361
+22,Estimates,Northern America,n,905,Region,1840,1999-01-01,308977.739
+23,Estimates,Oceania,o,909,Region,1840,1999-01-01,31014.222
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,1999-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,2000-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,2000-01-01,1188359.407
+4,Estimates,Less developed regions,c,902,Development Group,1803,2000-01-01,4955134.399
+5,Estimates,Least developed countries,d,941,Development Group,902,2000-01-01,657215.854
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,2000-01-01,4297918.545
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,2000-01-01,333947.033
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,2000-01-01,57613.591
+11,Estimates,High-income countries,h,1503,Income Group,1802,2000-01-01,1112318.334
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,2000-01-01,4567891.009
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,2000-01-01,2285144.582
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,2000-01-01,2282746.427
+15,Estimates,Low-income countries,h,1500,Income Group,1802,2000-01-01,461020.981
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,2000-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,2000-01-01,810984.232
+19,Estimates,Asia,k,935,Region,1840,2000-01-01,3741263.352
+20,Estimates,Europe,l,908,Region,1840,2000-01-01,725558.028
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,2000-01-01,521836.322
+22,Estimates,Northern America,n,905,Region,1840,2000-01-01,312426.785
+23,Estimates,Oceania,o,909,Region,1840,2000-01-01,31425.087
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,2000-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,2001-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,2001-01-01,1192204.362
+4,Estimates,Less developed regions,c,902,Development Group,1803,2001-01-01,5030422.169
+5,Estimates,Least developed countries,d,941,Development Group,902,2001-01-01,673903.088
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,2001-01-01,4356519.081
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,2001-01-01,341630.359
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,2001-01-01,58302.162
+11,Estimates,High-income countries,h,1503,Income Group,1802,2001-01-01,1119775.816
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,2001-01-01,4627061.096
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,2001-01-01,2304075.886
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,2001-01-01,2322985.21
+15,Estimates,Low-income countries,h,1500,Income Group,1802,2001-01-01,473477.932
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,2001-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,2001-01-01,830902.539
+19,Estimates,Asia,k,935,Region,1840,2001-01-01,3789285.36
+20,Estimates,Europe,l,908,Region,1840,2001-01-01,725771.936
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,2001-01-01,529213.159
+22,Estimates,Northern America,n,905,Region,1840,2001-01-01,315615.985
+23,Estimates,Oceania,o,909,Region,1840,2001-01-01,31837.552
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,2001-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,2002-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,2002-01-01,1196155.656
+4,Estimates,Less developed regions,c,902,Development Group,1803,2002-01-01,5105617.516
+5,Estimates,Least developed countries,d,941,Development Group,902,2002-01-01,691061.433
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,2002-01-01,4414556.083
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,2002-01-01,349570.836
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,2002-01-01,58963.237
+11,Estimates,High-income countries,h,1503,Income Group,1802,2002-01-01,1127324.223
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,2002-01-01,4685694.637
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,2002-01-01,2322554.14
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,2002-01-01,2363140.497
+15,Estimates,Low-income countries,h,1500,Income Group,1802,2002-01-01,486392.242
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,2002-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,2002-01-01,851298.437
+19,Estimates,Asia,k,935,Region,1840,2002-01-01,3836880.249
+20,Estimates,Europe,l,908,Region,1840,2002-01-01,726312.064
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,2002-01-01,536441.575
+22,Estimates,Northern America,n,905,Region,1840,2002-01-01,318585.949
+23,Estimates,Oceania,o,909,Region,1840,2002-01-01,32254.898
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,2002-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,2003-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,2003-01-01,1200271.254
+4,Estimates,Less developed regions,c,902,Development Group,1803,2003-01-01,5180913.887
+5,Estimates,Least developed countries,d,941,Development Group,902,2003-01-01,708587.94
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,2003-01-01,4472325.947
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,2003-01-01,357748.057
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,2003-01-01,59620.689
+11,Estimates,High-income countries,h,1503,Income Group,1802,2003-01-01,1135066.243
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,2003-01-01,4743954.176
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,2003-01-01,2340682.494
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,2003-01-01,2403271.682
+15,Estimates,Low-income countries,h,1500,Income Group,1802,2003-01-01,499752.268
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,2003-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,2003-01-01,872248.337
+19,Estimates,Asia,k,935,Region,1840,2003-01-01,3884134.618
+20,Estimates,Europe,l,908,Region,1840,2003-01-01,727134.243
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,2003-01-01,543544.13
+22,Estimates,Northern America,n,905,Region,1840,2003-01-01,321432.406
+23,Estimates,Oceania,o,909,Region,1840,2003-01-01,32691.407
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,2003-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,2004-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,2004-01-01,1204613.392
+4,Estimates,Less developed regions,c,902,Development Group,1803,2004-01-01,5256545.999
+5,Estimates,Least developed countries,d,941,Development Group,902,2004-01-01,726331.171
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,2004-01-01,4530214.828
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,2004-01-01,366126.839
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,2004-01-01,60307.195
+11,Estimates,High-income countries,h,1503,Income Group,1802,2004-01-01,1143132.398
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,2004-01-01,4802039.799
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,2004-01-01,2358576.556
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,2004-01-01,2443463.243
+15,Estimates,Low-income countries,h,1500,Income Group,1802,2004-01-01,513527.207
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,2004-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,2004-01-01,893842.786
+19,Estimates,Asia,k,935,Region,1840,2004-01-01,3931146.463
+20,Estimates,Europe,l,908,Region,1840,2004-01-01,728149.839
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,2004-01-01,550555.242
+22,Estimates,Northern America,n,905,Region,1840,2004-01-01,324299.295
+23,Estimates,Oceania,o,909,Region,1840,2004-01-01,33165.766
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,2004-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,2005-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,2005-01-01,1209215.036
+4,Estimates,Less developed regions,c,902,Development Group,1803,2005-01-01,5332691.92
+5,Estimates,Least developed countries,d,941,Development Group,902,2005-01-01,744190.509
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,2005-01-01,4588501.411
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,2005-01-01,374684.858
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,2005-01-01,61044.548
+11,Estimates,High-income countries,h,1503,Income Group,1802,2005-01-01,1151594.876
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,2005-01-01,4860123.817
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,2005-01-01,2376344.607
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,2005-01-01,2483779.21
+15,Estimates,Low-income countries,h,1500,Income Group,1802,2005-01-01,527685.618
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,2005-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,2005-01-01,916154.285
+19,Estimates,Asia,k,935,Region,1840,2005-01-01,3977986.452
+20,Estimates,Europe,l,908,Region,1840,2005-01-01,729287.881
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,2005-01-01,557500.981
+22,Estimates,Northern America,n,905,Region,1840,2005-01-01,327287.144
+23,Estimates,Oceania,o,909,Region,1840,2005-01-01,33690.213
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,2005-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,2006-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,2006-01-01,1214107.114
+4,Estimates,Less developed regions,c,902,Development Group,1803,2006-01-01,5409410.803
+5,Estimates,Least developed countries,d,941,Development Group,902,2006-01-01,762132.501
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,2006-01-01,4647278.302
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,2006-01-01,383416.644
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,2006-01-01,61843.01
+11,Estimates,High-income countries,h,1503,Income Group,1802,2006-01-01,1160503.449
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,2006-01-01,4918213.041
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,2006-01-01,2393987.481
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,2006-01-01,2524225.56
+15,Estimates,Low-income countries,h,1500,Income Group,1802,2006-01-01,542261.644
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,2006-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,2006-01-01,939210.049
+19,Estimates,Asia,k,935,Region,1840,2006-01-01,4024679.886
+20,Estimates,Europe,l,908,Region,1840,2006-01-01,730546.853
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,2006-01-01,564384.717
+22,Estimates,Northern America,n,905,Region,1840,2006-01-01,330425.339
+23,Estimates,Oceania,o,909,Region,1840,2006-01-01,34271.073
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,2006-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,2007-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,2007-01-01,1219250.488
+4,Estimates,Less developed regions,c,902,Development Group,1803,2007-01-01,5486696.155
+5,Estimates,Least developed countries,d,941,Development Group,902,2007-01-01,780219.573
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,2007-01-01,4706476.582
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,2007-01-01,392342.494
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,2007-01-01,62691.339
+11,Estimates,High-income countries,h,1503,Income Group,1802,2007-01-01,1169770.605
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,2007-01-01,4976355.788
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,2007-01-01,2411566.342
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,2007-01-01,2564789.446
+15,Estimates,Low-income countries,h,1500,Income Group,1802,2007-01-01,557248.248
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,2007-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,2007-01-01,963021.837
+19,Estimates,Asia,k,935,Region,1840,2007-01-01,4071214.938
+20,Estimates,Europe,l,908,Region,1840,2007-01-01,731938.559
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,2007-01-01,571201.889
+22,Estimates,Northern America,n,905,Region,1840,2007-01-01,333668.494
+23,Estimates,Oceania,o,909,Region,1840,2007-01-01,34900.926
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,2007-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,2008-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,2008-01-01,1224518.298
+4,Estimates,Less developed regions,c,902,Development Group,1803,2008-01-01,5564570.374
+5,Estimates,Least developed countries,d,941,Development Group,902,2008-01-01,798563.425
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,2008-01-01,4766006.949
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,2008-01-01,401496.607
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,2008-01-01,63564.903
+11,Estimates,High-income countries,h,1503,Income Group,1802,2008-01-01,1179159.9
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,2008-01-01,5034805.699
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,2008-01-01,2429314.404
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,2008-01-01,2605491.295
+15,Estimates,Low-income countries,h,1500,Income Group,1802,2008-01-01,572522.77
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,2008-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,2008-01-01,987623.52
+19,Estimates,Asia,k,935,Region,1840,2008-01-01,4117572.12
+20,Estimates,Europe,l,908,Region,1840,2008-01-01,733416.483
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,2008-01-01,577962.665
+22,Estimates,Northern America,n,905,Region,1840,2008-01-01,336952.722
+23,Estimates,Oceania,o,909,Region,1840,2008-01-01,35561.162
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,2008-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,2009-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,2009-01-01,1229735.181
+4,Estimates,Less developed regions,c,902,Development Group,1803,2009-01-01,5643031.807
+5,Estimates,Least developed countries,d,941,Development Group,902,2009-01-01,817322.615
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,2009-01-01,4825709.192
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,2009-01-01,410925.248
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,2009-01-01,64427.572
+11,Estimates,High-income countries,h,1503,Income Group,1802,2009-01-01,1188348.071
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,2009-01-01,5093871.454
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,2009-01-01,2447520.384
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,2009-01-01,2646351.07
+15,Estimates,Low-income countries,h,1500,Income Group,1802,2009-01-01,587921.339
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,2009-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,2009-01-01,1013045.725
+19,Estimates,Asia,k,935,Region,1840,2009-01-01,4163712.801
+20,Estimates,Europe,l,908,Region,1840,2009-01-01,734923.39
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,2009-01-01,584677.529
+22,Estimates,Northern America,n,905,Region,1840,2009-01-01,340182.405
+23,Estimates,Oceania,o,909,Region,1840,2009-01-01,36225.138
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,2009-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,2010-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,2010-01-01,1234767.516
+4,Estimates,Less developed regions,c,902,Development Group,1803,2010-01-01,5722056.072
+5,Estimates,Least developed countries,d,941,Development Group,902,2010-01-01,836614.841
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,2010-01-01,4885441.231
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,2010-01-01,420661.371
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,2010-01-01,65253.137
+11,Estimates,High-income countries,h,1503,Income Group,1802,2010-01-01,1197095.041
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,2010-01-01,5153738.178
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,2010-01-01,2466363.506
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,2010-01-01,2687374.672
+15,Estimates,Low-income countries,h,1500,Income Group,1802,2010-01-01,603339.579
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,2010-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,2010-01-01,1039304.03
+19,Estimates,Asia,k,935,Region,1840,2010-01-01,4209593.724
+20,Estimates,Europe,l,908,Region,1840,2010-01-01,736412.998
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,2010-01-01,591352.345
+22,Estimates,Northern America,n,905,Region,1840,2010-01-01,343287.422
+23,Estimates,Oceania,o,909,Region,1840,2010-01-01,36873.069
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,2010-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,2011-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,2011-01-01,1239557.448
+4,Estimates,Less developed regions,c,902,Development Group,1803,2011-01-01,5801636.72
+5,Estimates,Least developed countries,d,941,Development Group,902,2011-01-01,856471.437
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,2011-01-01,4945165.283
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,2011-01-01,430709.335
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,2011-01-01,66034.534
+11,Estimates,High-income countries,h,1503,Income Group,1802,2011-01-01,1205302.581
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,2011-01-01,5214491.629
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,2011-01-01,2485922.683
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,2011-01-01,2728568.946
+15,Estimates,Low-income countries,h,1500,Income Group,1802,2011-01-01,618725.584
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,2011-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,2011-01-01,1066409.712
+19,Estimates,Asia,k,935,Region,1840,2011-01-01,4255189.624
+20,Estimates,Europe,l,908,Region,1840,2011-01-01,737850.645
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,2011-01-01,597994.701
+22,Estimates,Northern America,n,905,Region,1840,2011-01-01,346251.161
+23,Estimates,Oceania,o,909,Region,1840,2011-01-01,37498.325
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,2011-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,2012-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,2012-01-01,1244114.531
+4,Estimates,Less developed regions,c,902,Development Group,1803,2012-01-01,5881713.426
+5,Estimates,Least developed countries,d,941,Development Group,902,2012-01-01,876867.234
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,2012-01-01,5004846.192
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,2012-01-01,441057.032
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,2012-01-01,66778.724
+11,Estimates,High-income countries,h,1503,Income Group,1802,2012-01-01,1213008.513
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,2012-01-01,5275972.51
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,2012-01-01,2506065.067
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,2012-01-01,2769907.443
+15,Estimates,Low-income countries,h,1500,Income Group,1802,2012-01-01,634150.118
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,2012-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,2012-01-01,1094343.029
+19,Estimates,Asia,k,935,Region,1840,2012-01-01,4300462.191
+20,Estimates,Europe,l,908,Region,1840,2012-01-01,739225.166
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,2012-01-01,604599.457
+22,Estimates,Northern America,n,905,Region,1840,2012-01-01,349093.381
+23,Estimates,Oceania,o,909,Region,1840,2012-01-01,38104.733
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,2012-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,2013-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,2013-01-01,1248453.53
+4,Estimates,Less developed regions,c,902,Development Group,1803,2013-01-01,5962128.511
+5,Estimates,Least developed countries,d,941,Development Group,902,2013-01-01,897793.439
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,2013-01-01,5064335.072
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,2013-01-01,451698.913
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,2013-01-01,67490.682
+11,Estimates,High-income countries,h,1503,Income Group,1802,2013-01-01,1220275.425
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,2013-01-01,5337803.62
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,2013-01-01,2526484.845
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,2013-01-01,2811318.775
+15,Estimates,Low-income countries,h,1500,Income Group,1802,2013-01-01,649783.542
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,2013-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,2013-01-01,1123045.137
+19,Estimates,Asia,k,935,Region,1840,2013-01-01,4345331.317
+20,Estimates,Europe,l,908,Region,1840,2013-01-01,740541.875
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,2013-01-01,611143.935
+22,Estimates,Northern America,n,905,Region,1840,2013-01-01,351824.035
+23,Estimates,Oceania,o,909,Region,1840,2013-01-01,38695.742
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,2013-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,2014-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,2014-01-01,1252615.112
+4,Estimates,Less developed regions,c,902,Development Group,1803,2014-01-01,6042675.647
+5,Estimates,Least developed countries,d,941,Development Group,902,2014-01-01,919222.955
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,2014-01-01,5123452.692
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,2014-01-01,462623.551
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,2014-01-01,68180.358
+11,Estimates,High-income countries,h,1503,Income Group,1802,2014-01-01,1227222.986
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,2014-01-01,5399458.147
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,2014-01-01,2546751.062
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,2014-01-01,2852707.085
+15,Estimates,Low-income countries,h,1500,Income Group,1802,2014-01-01,665865.815
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,2014-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,2014-01-01,1152433.618
+19,Estimates,Asia,k,935,Region,1840,2014-01-01,4389699.496
+20,Estimates,Europe,l,908,Region,1840,2014-01-01,741818.28
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,2014-01-01,617596.481
+22,Estimates,Northern America,n,905,Region,1840,2014-01-01,354464.254
+23,Estimates,Oceania,o,909,Region,1840,2014-01-01,39278.63
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,2014-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,2015-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,2015-01-01,1256622.188
+4,Estimates,Less developed regions,c,902,Development Group,1803,2015-01-01,6123174.779
+5,Estimates,Least developed countries,d,941,Development Group,902,2015-01-01,941131.317000001
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,2015-01-01,5182043.462
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,2015-01-01,473816.858
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,2015-01-01,68855.52
+11,Estimates,High-income countries,h,1503,Income Group,1802,2015-01-01,1233934.65
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,2015-01-01,5460515.587
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,2015-01-01,2566519.306
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,2015-01-01,2893996.281
+15,Estimates,Low-income countries,h,1500,Income Group,1802,2015-01-01,682575.699
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,2015-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,2015-01-01,1182438.803
+19,Estimates,Asia,k,935,Region,1840,2015-01-01,4433475.322
+20,Estimates,Europe,l,908,Region,1840,2015-01-01,743058.978
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,2015-01-01,623934.126
+22,Estimates,Northern America,n,905,Region,1840,2015-01-01,357031.045
+23,Estimates,Oceania,o,909,Region,1840,2015-01-01,39858.693
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,2015-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,2016-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,2016-01-01,1260478.667
+4,Estimates,Less developed regions,c,902,Development Group,1803,2016-01-01,6203543.267
+5,Estimates,Least developed countries,d,941,Development Group,902,2016-01-01,963519.718
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,2016-01-01,5240023.549
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,2016-01-01,485276.858
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,2016-01-01,69514.961
+11,Estimates,High-income countries,h,1503,Income Group,1802,2016-01-01,1240426.308
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,2016-01-01,5520843.438
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,2016-01-01,2585693.593
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,2016-01-01,2935149.845
+15,Estimates,Low-income countries,h,1500,Income Group,1802,2016-01-01,699950.58
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,2016-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,2016-01-01,1213040.542
+19,Estimates,Asia,k,935,Region,1840,2016-01-01,4476607.792
+20,Estimates,Europe,l,908,Region,1840,2016-01-01,744268.79
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,2016-01-01,630144.544
+22,Estimates,Northern America,n,905,Region,1840,2016-01-01,359524.635
+23,Estimates,Oceania,o,909,Region,1840,2016-01-01,40435.631
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,2016-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,2017-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,2017-01-01,1264146.38
+4,Estimates,Less developed regions,c,902,Development Group,1803,2017-01-01,6283712.52
+5,Estimates,Least developed countries,d,941,Development Group,902,2017-01-01,986385.402
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,2017-01-01,5297327.11800001
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,2017-01-01,496988.246
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,2017-01-01,70157.518
+11,Estimates,High-income countries,h,1503,Income Group,1802,2017-01-01,1246648.46
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,2017-01-01,5580422.654
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,2017-01-01,2604262.468
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,2017-01-01,2976160.186
+15,Estimates,Low-income countries,h,1500,Income Group,1802,2017-01-01,717952.425
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,2017-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,2017-01-01,1244222.269
+19,Estimates,Asia,k,935,Region,1840,2017-01-01,4519040.016
+20,Estimates,Europe,l,908,Region,1840,2017-01-01,745414.757
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,2017-01-01,636233.132
+22,Estimates,Northern America,n,905,Region,1840,2017-01-01,361942.247
+23,Estimates,Oceania,o,909,Region,1840,2017-01-01,41006.479
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,2017-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,2018-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,2018-01-01,1267558.904
+4,Estimates,Less developed regions,c,902,Development Group,1803,2018-01-01,6363532.20899999
+5,Estimates,Least developed countries,d,941,Development Group,902,2018-01-01,1009691.252
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,2018-01-01,5353840.957
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,2018-01-01,508906.035
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,2018-01-01,70791.836
+11,Estimates,High-income countries,h,1503,Income Group,1802,2018-01-01,1252546.331
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,2018-01-01,5639084.2
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,2018-01-01,2622069.755
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,2018-01-01,3017014.445
+15,Estimates,Low-income countries,h,1500,Income Group,1802,2018-01-01,736589.379
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,2018-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,2018-01-01,1275921.014
+19,Estimates,Asia,k,935,Region,1840,2018-01-01,4560667.137
+20,Estimates,Europe,l,908,Region,1840,2018-01-01,746419.436
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,2018-01-01,642216.709
+22,Estimates,Northern America,n,905,Region,1840,2018-01-01,364295.994
+23,Estimates,Oceania,o,909,Region,1840,2018-01-01,41570.823
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,2018-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,2019-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,2019-01-01,1270630.32
+4,Estimates,Less developed regions,c,902,Development Group,1803,2019-01-01,6442837.88500001
+5,Estimates,Least developed countries,d,941,Development Group,902,2019-01-01,1033388.868
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,2019-01-01,5409449.017
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,2019-01-01,520972.691
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,2019-01-01,71428.827
+11,Estimates,High-income countries,h,1503,Income Group,1802,2019-01-01,1258043.484
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,2019-01-01,5696667.314
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,2019-01-01,2638958.43
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,2019-01-01,3057708.884
+15,Estimates,Low-income countries,h,1500,Income Group,1802,2019-01-01,755849.741
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,2019-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,2019-01-01,1308064.176
+19,Estimates,Asia,k,935,Region,1840,2019-01-01,4601371.266
+20,Estimates,Europe,l,908,Region,1840,2019-01-01,747182.815
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,2019-01-01,648120.956
+22,Estimates,Northern America,n,905,Region,1840,2019-01-01,366600.944
+23,Estimates,Oceania,o,909,Region,1840,2019-01-01,42128.048
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,2019-01-01,0.0
+2,Estimates,UN development groups,a,1803,Label/Separator,900,2020-01-01,0.0
+3,Estimates,More developed regions,b,901,Development Group,1803,2020-01-01,1273304.261
+4,Estimates,Less developed regions,c,902,Development Group,1803,2020-01-01,6521494.468
+5,Estimates,Least developed countries,d,941,Development Group,902,2020-01-01,1057438.163
+6,Estimates,"Less developed regions, excluding least developed countries",e,934,Development Group,902,2020-01-01,5464056.305
+8,Estimates,Land-locked Developing Countries (LLDC),f,1636,Special other,1803,2020-01-01,533143.398
+9,Estimates,Small Island Developing States (SIDS),g,1637,Special other,1803,2020-01-01,72076.098
+11,Estimates,High-income countries,h,1503,Income Group,1802,2020-01-01,1263092.934
+12,Estimates,Middle-income countries,h,1517,Income Group,1802,2020-01-01,5753051.615
+13,Estimates,Upper-middle-income countries,h,1502,Income Group,1517,2020-01-01,2654816.331
+14,Estimates,Lower-middle-income countries,h,1501,Income Group,1517,2020-01-01,3098235.284
+15,Estimates,Low-income countries,h,1500,Income Group,1802,2020-01-01,775710.612
+17,Estimates,Geographic regions,i,1840,Label/Separator,900,2020-01-01,0.0
+18,Estimates,Africa,j,903,Region,1840,2020-01-01,1340598.113
+19,Estimates,Asia,k,935,Region,1840,2020-01-01,4641054.786
+20,Estimates,Europe,l,908,Region,1840,2020-01-01,747636.045
+21,Estimates,Latin America and the Caribbean,m,904,Region,1840,2020-01-01,653962.332
+22,Estimates,Northern America,n,905,Region,1840,2020-01-01,368869.644
+23,Estimates,Oceania,o,909,Region,1840,2020-01-01,42677.809
+24,Estimates,Sustainable Development Goal (SDG) regions,p,1828,Label/Separator,900,2020-01-01,0.0
