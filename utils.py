@@ -1,7 +1,5 @@
 import numpy as np 
 import pandas as pd 
-import re 
-from typing import List
 
 def region_pop() -> pd.DataFrame:
     """

@@ -1,5 +1,3 @@
-import os
-import mysql.connector as sql
 from utils import region_pop, ctry_pop
 from config import conn, create_db, create_table, show_tables, insert_into_table, select_records
 
