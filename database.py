@@ -7,7 +7,12 @@ def main():
     """Create connection, and tables"""
     DB_NAME = 'World_population'
     sql_query = f"CREATE SCHEMA IF NOT EXISTS {DB_NAME}"
-    create_db(DB_NAME, sql_query)
+    try:
+        # create DB
+        create_db(DB_NAME, sql_query)
+    except Exception as e:
+        print(f"Error message: {e}")
+    
     # create a table Region_Population
     table_name = 'Region_Population'
     sql_query = f"""
@@ -24,7 +29,10 @@ def main():
                             Population_Thousands INT                    
                         )
                 """
-    create_table(table_name, sql_query)
+    try:
+        create_table(table_name, sql_query)
+    except Exception as e:
+        print(f"Error message: {e}")
     # query
     sql_query = f"""
                     INSERT INTO {table_name}
@@ -36,9 +44,11 @@ def main():
     val_reg_pop = []
     for row in region_population.itertuples():
         val_reg_pop.append(row[1:])
-    # populate table
-    insert_into_table(table_name, sql_query, val_reg_pop)
-
+    try:
+        # populate table
+        insert_into_table(table_name, sql_query, val_reg_pop)
+    except Exception as e:
+        print(f"Error message: {e}")
     # create a table Countries_population
     table_name = 'Countries_population'
     sql_query = f"""
@@ -54,8 +64,13 @@ def main():
                             Population_Thousands INT                    
                         )
                 """
-    # create a table Countries_population
-    create_table(table_name, sql_query)
+    
+    try:
+        # create a table Countries_population
+        create_table(table_name, sql_query)
+    except Exception as e:
+        print(f"Error message: {e}")
+
     sql_query = f"""
                     INSERT INTO {table_name}
                     VALUES (%s, %s, %s, %s, %s, %s, %s, %s)
@@ -66,21 +81,29 @@ def main():
     val_ctry_pop = []
     for row in countries_population.itertuples():
         val_ctry_pop.append(row[1:])
-    # populate table
-    insert_into_table(table_name, sql_query, val_ctry_pop)
+    try:
+        # populate table
+        insert_into_table(table_name, sql_query, val_ctry_pop)
+    except Exception as e:
+        print(f"Error message: {e}")
+
     # show tables
     show_tables()
 
 
 if __name__ == "__main__":
     main()
-    # select some records
+
+    
     sql_query = """
                     SELECT * FROM region_population
                         LIMIT 5
                 """
-    select_records(sql_query)
-
+    try:
+       # select some records
+       select_records(sql_query)
+    except Exception as e:
+        print(f"Error message: {e}")
     # close connection
     conn.close()
     
